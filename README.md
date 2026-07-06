@@ -166,7 +166,6 @@ TPI_Analysis/
 ├── docs/
 │   └── EQUATIONS.md                 ← full equation derivations and verification
 │
-├── reports/                         ← APM paper reviews, LaTeX report, references
 │
 └── outputs/                         ← generated at runtime (gitignored if large)
     └── archive/                     ← historical experiment runs
