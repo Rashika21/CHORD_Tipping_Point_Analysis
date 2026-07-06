@@ -1,0 +1,2 @@
+total_designs,n_min,n_max,n_median,rho_min,rho_max,TPI_min,TPI_max,TPI_median,TPI_range,n_rho_min,n_rho_max,n_rho_mean,tier_Stable,tier_Preservation,tier_Precarious,tier_Critical,tier_Collapse,composite_median,hover_median_s,max_dist_median_m,max_speed_median_ms
+17387,9,22,21.0,0.09090909090909091,0.2222222222222222,0.29289321881345254,0.29289321881345254,0.29289321881345254,0.0,2.0,2.0,2.0,0,17387,0,0,0,0.5311955529518764,798.675266519937,14110.893986384783,28.907940541481622
