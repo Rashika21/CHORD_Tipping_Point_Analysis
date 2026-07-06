@@ -9,7 +9,7 @@ Systems and Platforms
 
 ## Overview
 
-This repository computes the **Topological Precariousness Index (TPI)** across large UAV design corpora. TPI quantifies how close a system's coupling topology is to the May–Wigner tipping point — the threshold at which random perturbations in inter-component coupling strengths cause systemic instability.
+This repository computes the **Topological Precariousness Index (TPI)** across large UAV design corpora. TPI quantifies how close a system's coupling topology is to the May–Wigner tipping point, the threshold at which random perturbations in inter-component coupling strengths cause systemic instability.
 
 The pipeline has been validated on two datasets:
 - **AircraftVerse** (27,714 designs, SRI/DARPA TRADES)
