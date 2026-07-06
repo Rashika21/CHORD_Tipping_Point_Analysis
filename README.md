@@ -1,9 +1,8 @@
-# TPI Analysis — Topological Precariousness Index for UAV Design Corpora
+# TPI Analysis — Architectural Precariousness Measure An Equivalent of Tipping Point for the Design Phase in Cyber-Physical Systems and Platforms
 
 **Authors:** Roshi Rose Nilchiani, PhD & Rashika Sugganahalli Natesh Babu  
 **Affiliation:** Stevens Institute of Technology  
-**Framework:** Architectural Precariousness Measure An Equivalent of Tipping Point for the Design Phase in Cyber-Physical
-Systems and Platforms
+**Framework:** Architectural Precariousness Measure An Equivalent of Tipping Point for the Design Phase in Cyber-Physical Systems and Platforms
 
 ---
 
